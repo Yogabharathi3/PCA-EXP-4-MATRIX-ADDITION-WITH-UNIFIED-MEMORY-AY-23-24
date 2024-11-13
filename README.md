@@ -2,7 +2,7 @@
 
 <h3>ENTER YOUR NAME : Yogabharathi S</h3>
 <h3>ENTER YOUR REGISTER NO : 212222230179</h3>
-<h3>DATE: 08/10/2024</h3>
+<h3>DATE: </h3>
 <h2> <align=center> MATRIX ADDITION WITH UNIFIED MEMORY </h2>
   Refer to the program sumMatrixGPUManaged.cu. Would removing the memsets below affect performance? If you can, check performance with nvprof or nvvp.</h3>
 
